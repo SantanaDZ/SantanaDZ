@@ -21,7 +21,7 @@ Com foco nas principais linguagens de programação e tecnologias do mercado, es
 ## 📫 Como me encontrar
 
 - **E-mail**: [andresantmartins@outlook.com](mailto:andresantmartins@outlook.com)
-- **LinkedIn**: [André Santana Martins](www.linkedin.com/in/andre-santana-martins-b8b619355)
+- **LinkedIn**: [André Santana Martins](https://www.linkedin.com/in/andre-santana-martins-b8b619355)
 
 ---
 
